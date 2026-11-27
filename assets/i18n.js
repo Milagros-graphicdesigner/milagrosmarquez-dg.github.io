@@ -2,6 +2,10 @@
 (() => {
   const D = {
     /* — UI general — */
+    "Trabajos": "Work",
+    "Sobre mí": "About",
+    "Servicios": "Expertise",
+    "Contacto": "Contact",
     "Saltar al contenido": "Skip to content",
     "Menú": "Menu",
     "Cerrar": "Close",
